@@ -3,8 +3,8 @@
 | ----- | ----- | ----- | --------- | ---- |
 |   Leon    |   Shifty    |   Hooded    |     Fancy      |   Lithe   |
 
-### Class
-Thief
+## Thief
+
 ### Alignment
 Chaotic
 
