@@ -6,10 +6,14 @@
 ### Class
 Thief
 ### Alignment
-Chaotic (Leap into danger without a plan.)
+Chaotic
+
+    Leap into danger without a plan
+        
 ### Race
 Human
-You are a professional. When you spout lore or discern realities about criminal activities, take +1.
+
+    You are a professional. When you spout lore or discern realities about criminal activities, take +1.
 
 ## Abilities
 Assign these scores to your stats: 16 (+2), 15 (+1), 13 (+1), 12 (+0), 9 (+0), 8 (-1)
